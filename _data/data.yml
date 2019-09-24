@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     # email: N/A
     # phone: N/A
-    website: N/A #do not add http://
+    # website: N/A #do not add http://
     linkedin: antoine-tournepiche
     github: AntoineJT
     gitlab: AntoineJT
@@ -25,6 +25,7 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+      title: Langues
       - idiom: Français
         level: Maternelle
 
