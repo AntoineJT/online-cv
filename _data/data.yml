@@ -129,8 +129,7 @@ skillslist:
       - title: Langages de programmation
         skills:
           - title: Java
-            link: "https://github.com/AntoineJT/jasc/tree/develop"
-            tagline: "Une calculatrice fonctionnant avec une pile, que j'utilise comme vitrine de compétences en Java"
+          - title: JavaScript
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
