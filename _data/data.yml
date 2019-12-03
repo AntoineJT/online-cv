@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Antoine Tournepiche
@@ -35,92 +35,80 @@ sidebar:
       - item: Programmation
         link:
 
-      - item: 
-        link:
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#
+#      Second paragraph if required.
 
-      - item: Cooking
-        link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: BTS SIO - Spécialité SLAM (en cours)
+      university: Lycée Charles de Foucauld, Paris 18ème
+      time: 2018 - 2020
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+
+      #     - Bullet point
+      #     - Bullet point
+
+    - degree: Baccalauréat Scientifique
+      university: Lycée Charles de Foucauld, Paris 18ème
+      time: 2015 - 2018
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+
+      #     - Bullet point
+      #     - Bullet point
+
 experiences:
-    - role: Sample
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Développeur
+      time: 06/05/2019 - 07/06/2019
+      company: Lycée Charles de Foucauld
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Développement d'un site pour mon professeur de SVT en Terminale S
+
 projects:
     title: Projets
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Ceci est la liste de certains projets notables auxquels j'ai participé.
+
     assignments:
       - title: Just another Stack Calculator
-        link: "#hook"
-        tagline: "Une calculatrice stack utilisée pour montrer mes compétences"
+        link: "https://github.com/AntoineJT/jasc/tree/develop"
+        tagline: "Une calculatrice fonctionnant avec une pile, que j'utilise comme vitrine de compétences en Java"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Niveau relatif
@@ -132,5 +120,6 @@ skills:
       - name: JavaScript
         level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
