@@ -76,7 +76,7 @@ education:
 experiences:
     - role: Développeur
       time: 06/05/2019 - 07/06/2019
-      company: Lycée Charles de Foucauld
+      company: Lycée Charles de Foucauld, Paris 18ème
       details: |
         Développement d'un site pour mon professeur de SVT en Terminale S
 
@@ -130,6 +130,13 @@ skillslist:
         skills:
           - title: Java
           - title: JavaScript
+          - title: Bash
+          - title: PHP
+      - title: Framework
+        skills:
+          - title: Laravel
+          - title: TailwindCSS
+            description: Je ne suis pas pour autant bon en design
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
