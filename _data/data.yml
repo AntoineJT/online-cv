@@ -89,6 +89,15 @@ projects:
       - title: Just another Stack Calculator
         link: "https://github.com/AntoineJT/jasc/tree/develop"
         tagline: "Une calculatrice fonctionnant avec une pile, que j'utilise comme vitrine de compétences en Java"
+        
+publications:
+    title: Contributions à des documentations
+    intro: |
+        Je liste ici mes contributions à des documentations en tout genre.
+        
+    papers:
+      - title: Mozilla Developer Network - Web Docs (version française)
+        link: "https://wiki.developer.mozilla.org/fr/profiles/AntoineJT"
 
 # publications:
 #     title: Publications
