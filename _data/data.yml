@@ -75,6 +75,11 @@ education:
 
 experiences:
     - role: Développeur
+      time: 06/01/2020 - 07/02/2020
+      company: MyBabyFly
+      details: |
+        Développement d'une plateforme de gestion interne d'animateurs
+    - role: Développeur
       time: 06/05/2019 - 07/06/2019
       company: Lycée Charles de Foucauld, Paris 18ème
       details: |
