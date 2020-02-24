@@ -138,9 +138,10 @@ skillslist:
       - title: Langages de programmation
         skills:
           - title: Java
+          - title: PHP
+          - title: C
           - title: JavaScript
           - title: Bash
-          - title: PHP
       - title: Framework
         skills:
           - title: Laravel
