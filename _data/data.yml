@@ -150,6 +150,7 @@ skillslist:
       - title: Framework
         skills:
           - title: Laravel
+          - title: Bootstrap
           - title: TailwindCSS
             description: Je ne suis pas pour autant bon en design
 
