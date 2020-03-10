@@ -1,0 +1,20 @@
+<div>
+    <button id="download">Télécharger le CV</button>
+    <p style="font-style:italic">La version PDF est générée à partir du site, ainsi elle n'est pas parfaite</p>
+</div>
+<script src="/online-cv/assets/js/vendor/html2pdf.bundle.min.js"></script>
+<script>
+    document.getElementById("download").addEventListener('click', () => {
+        const wrapper = document.querySelector('.wrapper');
+        const opt = {
+            filename:     'cv-antoine-tournepiche.pdf',
+            image:        { type: 'jpeg', quality: 1 },
+            pagebreak: { mode: ['avoid-all', 'css', 'legacy'] },
+            html2canvas:  { scale: 2 },  
+            jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+        };
+
+        // New Promise-based usage:
+        html2pdf().set(opt).from(wrapper).save();
+    });
+</script>
