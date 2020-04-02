@@ -2,7 +2,7 @@
 
 # Site Settings
 title: 📚 Curriculum Vitæ
-url: 'http://webjeda.com'
+url: 'https://antoinejt.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 description: CV - Antoine Tournepiche
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
@@ -30,5 +30,5 @@ compress_html: # - http://jch.penibelst.de/
 
 # Development Settings
 port: 4000
-host: 0.0.0.0
+host: 127.0.0.1
 safe: false
