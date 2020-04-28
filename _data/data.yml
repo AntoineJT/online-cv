@@ -142,7 +142,7 @@ skillslist:
     categories:
       - title: Langages de programmation
         skills:
-          - title: Java
+          - title: Java (compétence validée sur LinkedIn via leur test)
           - title: PHP
           - title: C
           - title: JavaScript
@@ -151,7 +151,21 @@ skillslist:
         skills:
           - title: Laravel
           - title: Bootstrap
-          - title: TailwindCSS
+      - title: IDE / Editeur de texte
+        skills:
+          - title: IntelliJ (et ses dérivés)
+          - title: Eclipse
+          - title: Visual Studio
+          - title: Visual Studio Code
+          - title: Atom
+          - title: Brackets
+      - title: Autres
+        skills:
+          - title: Git (compétence validée sur LinkedIn via leur test)
+          - title: Gradle
+          - title: Maven
+          - title: GitHub Actions
+
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
