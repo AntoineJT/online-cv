@@ -162,6 +162,7 @@ skillslist:
       - title: Autres
         skills:
           - title: Git (compétence validée sur LinkedIn via leur test)
+          - title: Programmation orientée objet (compétence validée sur LinkedIn via leur test)
           - title: Gradle
           - title: Maven
           - title: GitHub Actions
