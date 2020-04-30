@@ -143,8 +143,8 @@ skillslist:
       - title: Langages de programmation
         skills:
           - title: Java (compétence validée sur LinkedIn via leur test)
-          - title: PHP
-          - title: C
+          - title: PHP (compétence validée sur LinkedIn via leur test)
+          - title: C (compétence validée sur LinkedIn via leur test)
           - title: JavaScript
           - title: Bash
       - title: Framework
