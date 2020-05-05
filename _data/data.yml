@@ -146,7 +146,7 @@ skillslist:
           - title: PHP (compétence validée sur LinkedIn via leur test)
           - title: C (compétence validée sur LinkedIn via leur test)
           - title: JavaScript
-          - title: Bash
+          - title: Lua
       - title: Framework
         skills:
           - title: Laravel
