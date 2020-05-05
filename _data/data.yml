@@ -47,6 +47,9 @@ sidebar:
 #      Second paragraph if required.
 
 education:
+    - degree: "Licence générale informatique<br> Parcours Développement d'applications Web, d'applications Mobiles, et Cybersécurité (accepté)"
+      university: UFA Charles de Foucauld, CFA CERFAL
+      time: 2020 - 2021
     - degree: BTS SIO - Spécialité SLAM (en cours)
       university: Lycée Charles de Foucauld, Paris 18ème
       time: 2018 - 2020
@@ -79,11 +82,18 @@ experiences:
       company: MyBabyFly
       details: |
         Développement d'une plateforme de gestion interne d'animateurs
+        <br>Framework utilisés : Bootstrap 4, Laravel 6
+        <br>Réalisation d'un MCD pour concevoir la base de données
+        <br>Elaboration d'un cahier des charges avec le client et d'un certain nombre de documents préparatoires
+        <br>Système de connexion, de niveau d'autorisations (animateur, administrateur, super-administrateur), d'ajout de documents, d'enregistrement d'atelier, d'envoi de courriel groupé selon des critères de recherche, système de recherche selon critères, etc.
+        
     - role: Développeur
       time: 06/05/2019 - 07/06/2019
       company: Lycée Charles de Foucauld, Paris 18ème
       details: |
         Développement d'un site pour mon professeur de SVT en Terminale S
+        <br>Framework utilisé : TailwindCSS 0.7
+        <br>Il s'agissait de permettre au professeur de mettre en ligne des PDF, d'enregistrer des articles d'actualité scientifique, de mettre en ligne des exposés d'élèves, etc.
 
 # projects:
 #     title: Projets
