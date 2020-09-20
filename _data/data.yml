@@ -47,10 +47,10 @@ sidebar:
 #      Second paragraph if required.
 
 education:
-    - degree: "Licence générale informatique<br> Parcours Développement d'applications Web, d'applications Mobiles, et Cybersécurité (accepté)"
+    - degree: "Licence générale informatique<br> Parcours Développement d'applications Web, d'applications Mobiles, et Cybersécurité (en cours)"
       university: UFA Charles de Foucauld, CFA CERFAL
       time: 2020 - 2021
-    - degree: BTS SIO - Spécialité SLAM (en cours)
+    - degree: BTS SIO - Spécialité SLAM
       university: Lycée Charles de Foucauld, Paris 18ème
       time: 2018 - 2020
       # details: |
