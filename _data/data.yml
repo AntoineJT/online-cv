@@ -152,9 +152,9 @@ skillslist:
     categories:
       - title: Langages de programmation
         skills:
-          - title: Java (compétence validée sur LinkedIn via leur test)
-          - title: PHP (compétence validée sur LinkedIn via leur test)
-          - title: C (compétence validée sur LinkedIn via leur test)
+          - title: Java 
+          - title: PHP 
+          - title: C 
           - title: JavaScript
           - title: Lua
       - title: Framework
@@ -171,8 +171,8 @@ skillslist:
           - title: Brackets
       - title: Autres
         skills:
-          - title: Git (compétence validée sur LinkedIn via leur test)
-          - title: Programmation orientée objet (compétence validée sur LinkedIn via leur test)
+          - title: Git 
+          - title: Programmation orientée objet 
           - title: Gradle
           - title: Maven
           - title: GitHub Actions
