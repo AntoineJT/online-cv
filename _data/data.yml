@@ -156,7 +156,6 @@ skillslist:
           - title: PHP 
           - title: C 
           - title: JavaScript
-          - title: Lua
       - title: Framework
         skills:
           - title: Laravel
@@ -167,8 +166,6 @@ skillslist:
           - title: Eclipse
           - title: Visual Studio
           - title: Visual Studio Code
-          - title: Atom
-          - title: Brackets
       - title: Autres
         skills:
           - title: Git 
